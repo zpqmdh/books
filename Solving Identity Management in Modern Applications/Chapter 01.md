@@ -17,6 +17,18 @@ This chapter sets the stage for the rest of the book, which focuses on three cor
 2.  **OpenID Connect (OIDC):** An identity layer built on top of OAuth 2.0 for authentication.
 3.  **SAML 2.0:** An XML-based standard typically used for enterprise identity federation.
 
+## Summary
+Modern users expect a frictionless, well-designed experience when using an application. 
+Identity management should help them access an application quickly, not get in their way. In order to achieve that, developers face a lot of questions and need to 
+sort through a wide range of options available to them when developing identity management solutions for modern applications. The next chapter will help you understand the components of an identity management solution by covering the events in the life of an identity.
+ 
+## Key Points
+* Identity management poses many challenges to developers of modern applications.
+* Identity management solutions must be appropriate for the sensitivity, desired user experience, and delivery platforms of an application.
+* Identity management is a huge topic, more than can be covered completely in one book.
+* We’ll provide an overview of identity management and typical requirements for identity management for your application.
+* We’ll cover three protocols – what they are used for, how they work, and how to make a basic authentication or authorization request.
+* We’ll provide a sample program that illustrates some of the topics discussed
 ---
 
 # 📑 Vocabulary List
