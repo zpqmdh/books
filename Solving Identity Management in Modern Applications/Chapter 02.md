@@ -69,7 +69,7 @@ In the next chapters, we’ll dive into more detail for each event, starting wit
 * Single sign-on allows a user to log in once and then access additional protected resources without reentering credentials.
 ---
 
-# 📑 Vocabulary List (30 Words)
+# 📑 Vocabulary List
 
 | No | Word | Korean Meaning |
 | :--- | :--- | :--- |
