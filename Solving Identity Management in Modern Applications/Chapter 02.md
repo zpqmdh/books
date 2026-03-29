@@ -13,6 +13,9 @@ Before examining the lifecycle, we must define the primary actors in the identit
 
 ## 3. Detailed Stages of the Identity Lifecycle
 
+<img width="562" height="457" alt="image" src="https://github.com/user-attachments/assets/4fd62c4b-2ac1-4388-8597-991fc03e112e" />
+
+
 ### A. Phase 1: Provisioning (Registration and Setup)
 Provisioning is the birth of an identity. It involves gathering information about a Subject and establishing their presence in the system.
 * **Identity Creation:** Collecting initial data such as name, email, and password.
